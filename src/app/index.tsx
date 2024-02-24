@@ -35,7 +35,7 @@ export default function WelcomeScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    height: '100%',
     padding: 20,
     justifyContent: 'center',
     alignItems: 'center',
